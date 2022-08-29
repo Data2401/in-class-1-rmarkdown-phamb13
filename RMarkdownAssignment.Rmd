@@ -1,6 +1,6 @@
 ---
-  title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+title: 'RMarkdown:  In Class Assignment'
+author: "Benjamin Pham"
 date: "Data 2401"
 output: html_document
 ---
@@ -21,6 +21,7 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 1. Make a subsection called "Wise words". Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
+
 2. Make a subsection called "My semester". Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
 
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
@@ -31,4 +32,35 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 
 
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
+ 
+ -----
+ # Your work here
+ -----
+ 
+ -----
+ ## Wise words
+ -----
+ 
+ ```
+  >Thoedore Roosevelt once said:
+  
+  >In any moment of decision, the best thing you can do is the right thing
+  >the next best thing is the wrong thing
+  >and the worst thing you can do is nothing
+ ``` 
+ 
+ ```
+  [link phrase](https://www.brainyquote.com/topics/the-right-thing-quotes#:~:text=In%20any%20moment%20of%20decision,you%20can%20do%20is%20nothing.&text=You%20can%20always%20count%20on,they%27ve%20tried%20everything%20else.) 
+```
+
+-----
+ ## My semester
+-----
+
+-----
+|_Data Science_|
+|_Linear Algebra_|
+|_Statistics_|  
+-----
+  
  
