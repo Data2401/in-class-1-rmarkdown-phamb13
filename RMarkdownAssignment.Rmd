@@ -34,30 +34,51 @@ Below the "Your work here" section header, do the following 3 things. To turn th
 Note that you can click "Knit" as you go along to see what the final results are going to look like. **Once you're done, commit the changes and push the repo back to your assignment on GitHub!**
  
 
- # Your work here
+# Your Work Here
  
- ## Wise words
+## Wise words
  
  ```
-  >Thoedore Roosevelt once said:
+  Thoedore Roosevelt once said:
   
-  >In any moment of decision, the best thing you can do is the right thing
-  >the next best thing is the wrong thing
-  >and the worst thing you can do is nothing
+  > In any moment of decision, the best thing you can do is the right thing
+  > the next best thing is the wrong thing
+  > and the worst thing you can do is nothing
  ``` 
  
- ```
-  [link phrase](https://www.brainyquote.com/topics/the-right-thing-quotes#:~:text=In%20any%20moment%20of%20decision,you%20can%20do%20is%20nothing.&text=You%20can%20always%20count%20on,they%27ve%20tried%20everything%20else.) 
+[link phrase](https://www.brainyquote.com/topics/the-right-thing-quotes#:~:text=In%20any%20moment%20of%20decision,you%20can%20do%20is%20nothing.&text=You%20can%20always%20count%20on,they%27ve%20tried%20everything%20else.) 
+
+
+## My semester
+
+|   __2401__     |    __2305__    |     __2307__     |
+|:---------------|:---------------|:-----------------|
+| _Data Science_ | _Prob & Stats_ | _Linear Algebra_ |
+| Katherine Shoemaker | Vien Nguyen | Sergiy Koshkin |
+
+## I recommened
+
+### SG (Dj Snake, Ozuna, Megan Thee Stallion, LISA)
+
 ```
+Baila, what you want? Dance for you
+I'll sway, sway all night with you
+Baila, come on in close to you
+Ah, ah, ah, ayy, yeah
+'Til the sun comes up, I'll be here with you
+No lie, no lie
+Got me in the mood when it's just us two
+I'll fly, I'll fly, yeah, ah
+Sexy girl 
+You know I don't play
+Make you fall in love
+One touch and you'll be saved
+On fire 
+Why won't you behave? 
+My love gon' send you walking to a higher place, oh, oh
+```
++ DJ Snake: Loco Contigo
++ Ozuna: Solita
++ Megan Thee Stallion: WAP
++ LISA: Ice Cream
 
------
- ## My semester
------
-
------
-|_Data Science_|
-|_Linear Algebra_|
-|_Statistics_|  
------
-  
- 
