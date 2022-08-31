@@ -51,16 +51,17 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 ## My semester
 
-|   __2401__     |    __2305__    |     __2307__     |
-|:---------------|:---------------|:-----------------|
-| _Data Science_ | _Prob & Stats_ | _Linear Algebra_ |
-| Katherine Shoemaker | Vien Nguyen | Sergiy Koshkin |
+| __Course Number__ |  _Course Title_  |  Instructor Name    |
+|:------------------|:-----------------|:--------------------|
+|    __2401__       | _Data Science_   | Katherine Shoemaker |
+|    __2305__       | _Prob & Stats_   | Vien Nguyen         |
+|    __2307__       | _Linear Algebra_ | Sergiy Koshkin      |
+
 
 ## I recommened
 
-### SG (Dj Snake, Ozuna, Megan Thee Stallion, LISA)
+### LISA
 
-```
 Baila, what you want? Dance for you
 I'll sway, sway all night with you
 Baila, come on in close to you
@@ -76,9 +77,8 @@ One touch and you'll be saved
 On fire 
 Why won't you behave? 
 My love gon' send you walking to a higher place, oh, oh
-```
-+ DJ Snake: Loco Contigo
-+ Ozuna: Solita
-+ Megan Thee Stallion: WAP
-+ LISA: Ice Cream
+
++ SG
++ Ice Cream
++ WHISTLE
 
