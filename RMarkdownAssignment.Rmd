@@ -51,10 +51,11 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 ## My semester
 
-|   __2401__     |    __2305__    |     __2307__     |
-|:---------------|:---------------|:-----------------|
-| _Data Science_ | _Prob & Stats_ | _Linear Algebra_ |
-| Katherine Shoemaker | Vien Nguyen | Sergiy Koshkin |
+| __Course Number__ |  _Course Title_  | Instrutor Name      |
+|:------------------|:-----------------|:--------------------|
+|     __2401__      | _Data Science_   | Katherine Shoemaker |
+|     __2305__      | _Prob & Stats_   | Vien Nguyen         |
+|     __2307__      | _Linear Algebra_ | Sergiy Koshkin      |
 
 ## I recommened
 
