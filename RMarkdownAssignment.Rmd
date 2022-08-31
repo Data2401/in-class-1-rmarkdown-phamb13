@@ -61,7 +61,6 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 ## LISA
 
-```
 Baila, what you want? Dance for you
 I'll sway, sway all night with you
 Baila, come on in close to you
@@ -77,7 +76,7 @@ One touch and you'll be saved
 On fire 
 Why won't you behave? 
 My love gon' send you walking to a higher place, oh, oh
-```
+
 + SG
 + Ice Cream
 + WHISTLE
